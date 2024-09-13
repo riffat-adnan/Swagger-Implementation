@@ -21,7 +21,7 @@ const startServer = async () => {
   }
 };
 
-startServer();
+// startServer();
 
 const exitHandler = () => {
   if (server) {
